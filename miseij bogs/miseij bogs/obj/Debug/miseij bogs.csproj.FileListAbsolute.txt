@@ -1,0 +1,9 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\bin\Debug\miseij bogs.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\bin\Debug\miseij bogs.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\bin\Debug\miseij bogs.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\obj\Debug\miseij bogs.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\obj\Debug\miseij_bogs.Form1.resources
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\obj\Debug\miseij_bogs.Properties.Resources.resources
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\obj\Debug\miseij bogs.csproj.GenerateResource.Cache
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\obj\Debug\miseij bogs.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\miseij bogs\miseij bogs\obj\Debug\miseij bogs.pdb

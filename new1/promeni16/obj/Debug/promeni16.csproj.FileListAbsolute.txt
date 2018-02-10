@@ -1,0 +1,5 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\promeni16\bin\Debug\promeni16.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\promeni16\bin\Debug\promeni16.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\promeni16\bin\Debug\promeni16.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\promeni16\obj\Debug\promeni16.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\promeni16\obj\Debug\promeni16.pdb

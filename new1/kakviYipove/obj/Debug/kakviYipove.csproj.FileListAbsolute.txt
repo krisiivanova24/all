@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\kakviYipove\bin\Debug\kakviYipove.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\kakviYipove\bin\Debug\kakviYipove.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\kakviYipove\bin\Debug\kakviYipove.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\kakviYipove\obj\Debug\kakviYipove.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\kakviYipove\obj\Debug\kakviYipove.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\kakviYipove\obj\Debug\kakviYipove.pdb

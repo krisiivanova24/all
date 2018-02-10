@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\tochnaSuma\bin\Debug\tochnaSuma.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\tochnaSuma\bin\Debug\tochnaSuma.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\tochnaSuma\bin\Debug\tochnaSuma.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\tochnaSuma\obj\Debug\tochnaSuma.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\tochnaSuma\obj\Debug\tochnaSuma.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\new1\tochnaSuma\obj\Debug\tochnaSuma.pdb
